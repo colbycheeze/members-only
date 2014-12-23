@@ -4,5 +4,7 @@
   <%= f.text_field :email %>
   <%= f.label :password %>
   <%= f.password_field :password %>
+  <%= f.label :remember_token, "Remember Login?" %>
+  <%= f.check_box :remember_token %>
   <%= f.submit "Log in" %>
 <% end %>
