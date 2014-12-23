@@ -1,15 +1,8 @@
 Rails.application.routes.draw do
-  get 'sessions/new'
-
-  get 'sessions/create'
-
-  get 'sessions/delete'
-
-  get 'sessions_controller/new'
-
-  get 'sessions_controller/create'
-
-  get 'sessions_controller/delete'
+  root 'static_pages#welcome'
+  get 'login' => 'sessions#new'
+  post 'login' => 'sessions#create'
+  delete 'login' => 'sessions#destroy'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

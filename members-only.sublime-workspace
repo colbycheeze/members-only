@@ -1,0 +1,1468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"assert_",
+				"assert_redirected_to"
+			],
+			[
+				"update_",
+				"update_attributes  (function)"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"str",
+				"srt	RSpec Should Respond To"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"is",
+				"isConsanants"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/sessions_controller.rb",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sessions/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add ",
+				"Git: Add..."
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"Color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				":wq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git: cu",
+				"Git: Custom Command"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: bs3-form",
+				"Snippet: bs3-form"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"User",
+				"Preferences: Settings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"quick c",
+				"Git: Quick Commit"
+			],
+			[
+				"align",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/colbycheeze/projects/odin-project/members-only",
+		"/home/colbycheeze/projects/odin-project/members-only/app",
+		"/home/colbycheeze/projects/odin-project/members-only/app/views"
+	],
+	"file_history":
+	[
+		"/home/colbycheeze/projects/odin-project/members-only/app/views/static_pages/welcome.html.erb",
+		"/home/colbycheeze/projects/odin-project/members-only/config/routes.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/config/environments/production.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/app/views/sessions/delete.html.erb",
+		"/home/colbycheeze/projects/odin-project/members-only/app/views/sessions/create.html.erb",
+		"/home/colbycheeze/projects/odin-project/members-only/app/views/layouts/application.html.erb",
+		"/home/colbycheeze/projects/odin-project/members-only/config/secrets.yml",
+		"/home/colbycheeze/projects/odin-project/members-only/config/initializers/session_store.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/app/controllers/sessions_controller_controller.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/db/seeds.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/app/models/user.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/test/fixtures/users.yml",
+		"/home/colbycheeze/projects/odin-project/members-only/Gemfile",
+		"/home/colbycheeze/projects/odin-project/members-only/db/migrate/20141223164632_create_users.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/app/controllers/application_controller.rb",
+		"/home/colbycheeze/projects/odin-project/members-only/README.md",
+		"/home/colbycheeze/projects/odin-project/members-only/README.rdoc",
+		"/home/colbycheeze/projects/odin-project/members-only/.gitignore",
+		"/home/colbycheeze/Documents/Filebot Scripts.txt",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/test_helper.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/integration/users_edit_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/controllers/users_controller_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/users/_fields.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/users/new.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/users/edit.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/integration/users_login_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/helpers/sessions_helper.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/controllers/sessions_controller.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/sessions/new.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/seeds.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/models/user.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/stylesheets/users.css.scss",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/helpers/users_helper.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/controllers/users_controller.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/integration/users_signup_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/integration/users_index_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/Gemfile",
+		"/home/colbycheeze/projects/odin-project/sample_app/.gitignore",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/fixtures/users.yml",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/users/_user.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/layouts/_header.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/models/user_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/migrate/20141222033556_add_admin_to_users.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/migrate/20141218030221_add_password_digest_to_users.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/migrate/20141221043314_add_remember_digest_to_users.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/users/index.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/migrate/20141218010543_add_index_to_users_email.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/inflections.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/javascripts/sessions.coffee",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/users/show.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/tmp/cache/assets/development/sprockets/edbf63d87f211c17de329b8a471a7caf",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/environment.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/helpers/sessions_helper_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/integration/site_layout_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/javascripts/users.coffee",
+		"/home/colbycheeze/projects/odin-project/sample_app/tmp/pids/server.pid",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/static_pages/home.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/controllers/application_controller.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/routes.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/fixtures/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/filter_parameter_logging.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/javascripts/application.js",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/stylesheets/application.css",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/session_store.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/wrap_parameters.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/sample_app.sublime-project",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/secrets.yml",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/layouts/application.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/test.sqlite3",
+		"/home/colbycheeze/projects/odin-project/sample_app/Procfile",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/unicorn.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/.bundle/config",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/environments/production.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/helpers/static_pages_helper.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/assets/javascripts/static_pages.coffee",
+		"/home/colbycheeze/projects/odin-project/sample_app/bin/spring",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/helpers/application_helper.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/migrate/20141218001154_create_users.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/environments/development.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/boot.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/backtrace_silencers.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/controllers/concerns/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/controllers/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/mime_types.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/environments/test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/ls",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/models/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/models/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/db/development.sqlite3",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/helpers/application_helper_test.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/application.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/layouts/_shim.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/static_pages/about.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/test/mailers/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/Guardfile",
+		"/home/colbycheeze/projects/odin-project/sample_app/app/views/static_pages/help.html.erb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config/initializers/assets.rb",
+		"/home/colbycheeze/projects/odin-project/sample_app/config.ru",
+		"/home/colbycheeze/projects/odin-project/sample_app/vendor/assets/javascripts/.keep",
+		"/home/colbycheeze/projects/odin-project/sample_app/README.md",
+		"/home/colbycheeze/projects/shoes-app/hello_world.rb",
+		"/home/colbycheeze/projects/shoes-app/shoes_app_window.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/index.html",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/tiny_browser.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_server.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_client.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_tcp.rb",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/simple_TCP",
+		"/home/colbycheeze/projects/odin-project/ruby-basic-webserver/README.md",
+		"/home/colbycheeze/projects/odin-project/fileio/files-serialization.rb",
+		"/home/colbycheeze/projects/odin-project/files-serialization",
+		"/home/colbycheeze/projects/odin-project/enumerable-method/project2.rb",
+		"/home/colbycheeze/projects/bubble-sort/bubble_sort.rb",
+		"/home/colbycheeze/projects/my_array = [9,4,3,2,5,7,1]",
+		"/home/colbycheeze/.rp5rc",
+		"/home/colbycheeze/projects/ruby-processing/babysteps.rb",
+		"/usr/lib/ruby/2.1.0/rubygems/dependency.rb",
+		"/home/colbycheeze/projects/ruby-cmdline/helloscript.rb",
+		"/home/colbycheeze/.speedswapper",
+		"/home/colbycheeze/projects/odin-project/rails-project/app/views/articles/index.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/app/views/articles/show.html.erb",
+		"/home/colbycheeze/projects/odin-project/rails-project/blogger/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"path",
+			"user_params",
+			"private",
+			"assert",
+			"users/new",
+			"ssl",
+			"/forms",
+			"form",
+			"one:\n  name: MyString\n  email: MyString\n\ntwo:\n  name: MyString\n  email: MyString",
+			":",
+			"#",
+			"#777",
+			"h2",
+			"top",
+			"taggings",
+			"comments",
+			"\n	",
+			"Article",
+			"word",
+			"([",
+			"word",
+			"words",
+			"grid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/sessions_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/sessions/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/application_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"project": "members-only.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"view",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"fix",
+				"test/fixtures/users.yml"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"create",
+				"db/migrate/20141223164632_create_users.rb"
+			],
+			[
+				"re",
+				"README.rdoc"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"test_he",
+				"test/test_helper.rb"
+			],
+			[
+				"users_ed",
+				"test/integration/users_edit_test.rb"
+			],
+			[
+				"users",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"users_t",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"users_ind",
+				"test/integration/users_index_test.rb"
+			],
+			[
+				"users_con",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"users.",
+				"test/fixtures/users.yml"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"_us",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"user_cont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"addadmin",
+				"db/migrate/20141222033556_add_admin_to_users.rb"
+			],
+			[
+				"users_i",
+				"test/integration/users_index_test.rb"
+			],
+			[
+				"inde",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"_hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"custo",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"users_cont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"test_helper",
+				"test/test_helper.rb"
+			],
+			[
+				"",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"login",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sessionsnew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"user_t",
+				"test/models/user_test.rb"
+			],
+			[
+				"users_lo",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"add_rem",
+				"db/migrate/20141221043314_add_remember_digest_to_users.rb"
+			],
+			[
+				"test",
+				"test/test_helper.rb"
+			],
+			[
+				"helper",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"control",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"test_h",
+				"test/test_helper.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"application",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"_he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sessions_he",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"app_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"sesscon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"viewapp",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"testsign",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"user_si",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"statichom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"viewa",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"add",
+				"db/migrate/20141218030221_add_password_digest_to_users.rb"
+			],
+			[
+				"users.y",
+				"test/fixtures/users.yml"
+			],
+			[
+				"models",
+				"test/models/user_test.rb"
+			],
+			[
+				"migr",
+				"db/migrate/20141218001154_create_users.rb"
+			],
+			[
+				"viewus",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"users_",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"site",
+				"test/integration/site_layout_test.rb"
+			],
+			[
+				"con",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"viewhome",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"contr",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"viewap",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"helpoer",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"configinit",
+				"config/initializers/backtrace_silencers.rb"
+			],
+			[
+				"testhelp",
+				"test/test_helper.rb"
+			],
+			[
+				"configtest",
+				"config/environments/test.rb"
+			],
+			[
+				"viewhel",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"viewhom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"cont",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"controll",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"index",
+				"app/views/articles/index.html.erb"
+			],
+			[
+				"show",
+				"app/views/articles/show.html.erb"
+			],
+			[
+				"_form",
+				"app/views/articles/_form.html.erb"
+			],
+			[
+				"articles",
+				"app/helpers/articles_helper.rb"
+			],
+			[
+				"article",
+				"app/models/article.rb"
+			],
+			[
+				"artic",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"tags_",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"tags_con",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"articles_con",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"articles_he",
+				"app/helpers/articles_helper.rb"
+			],
+			[
+				"tag",
+				"app/models/tag.rb"
+			],
+			[
+				"arti",
+				"app/models/article.rb"
+			],
+			[
+				"_comm",
+				"app/views/articles/_comment.html.erb"
+			],
+			[
+				"form",
+				"app/views/comments/_form.html.erb"
+			],
+			[
+				"_fo",
+				"app/views/comments/_form.html.erb"
+			],
+			[
+				"art",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"comments",
+				"db/migrate/20141210005713_create_comments.rb"
+			],
+			[
+				"css",
+				"app/assets/stylesheets/screen.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
