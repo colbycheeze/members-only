@@ -2,6 +2,7 @@ module SessionsHelper
   def log_in(user)
     session[:user_id] = user.id
     remember_token = User.new_token
+    cookies.permanent.signed[:user_id] = user.id
     cookies.permanent[:remember_token] = remember_token
     user.update_attribute(:remember_digest, User.digest(remember_token))
     self.current_user = user
@@ -29,7 +30,7 @@ module SessionsHelper
 
   def current_user
 
-    remember_token = User.digest(cookies[:remember_token])
-    @_current_user ||= User.find_by(remember_digest: remember_token)
+    # remember_token = User.digest(cookies[:remember_token])
+    @_current_user ||= User.find_by(id: session[:user_id])
   end
 end

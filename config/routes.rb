@@ -1,11 +1,15 @@
 Rails.application.routes.draw do
-  get 'posts/new'
 
-  get 'posts/create'
+  #Posts
+  get  'posts/new'
+  post 'posts' => 'posts#create'
+  get  'posts/index'
+  get  'posts' => 'posts#index'
 
-  get 'posts/index'
-
+  #Static Pages
   root 'static_pages#welcome'
+
+  #Login Pages
   get 'login' => 'sessions#new'
   post 'login' => 'sessions#create'
   get 'logout' => 'sessions#destroy'
